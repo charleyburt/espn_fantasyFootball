@@ -1,0 +1,167 @@
+,Week,score,Type,margin,teamName,weeklyRank,weeklyWin
+0,1.0,94.98,Regular,-7.739999999999995,Team Brockman,4.0,0
+1,3.0,124.74,Regular,-13.179999999999993,Team Brockman,8.0,0
+2,4.0,98.92,Regular,4.480000000000004,Team Brockman,6.0,1
+3,6.0,96.38,Regular,14.14,Team Brockman,6.0,1
+4,8.0,92.96,Regular,50.43999999999999,Team Brockman,4.0,1
+5,10.0,95.96,Regular,15.179999999999993,Team Brockman,7.0,1
+6,14.0,58.72,Regular,-49.400000000000006,Team Brockman,1.0,0
+9,2.0,111.4,Regular,4.1200000000000045,Team Brockman,4.0,1
+10,5.0,82.22,Regular,-52.5,Team Brockman,1.0,0
+11,7.0,110.58,Regular,-6.820000000000007,Team Brockman,5.0,0
+12,9.0,88.5,Regular,-18.159999999999997,Team Brockman,5.0,0
+13,11.0,72.92,Regular,-29.959999999999994,Team Brockman,3.0,0
+14,12.0,62.48,Regular,-20.360000000000007,Team Brockman,1.0,0
+15,13.0,88.6,Regular,10.280000000000001,Team Brockman,4.0,1
+16,1.0,81.9,Regular,-6.839999999999989,Team Shapland,2.0,0
+17,4.0,81.9,Regular,-6.0,Team Shapland,2.0,0
+18,5.0,83.04,Regular,-27.019999999999996,Team Shapland,2.0,0
+19,6.0,74.74,Regular,-12.680000000000007,Team Shapland,1.0,0
+20,8.0,90.06,Regular,-12.959999999999994,Team Shapland,3.0,0
+21,10.0,90.66,Regular,-19.439999999999998,Team Shapland,5.0,0
+22,13.0,74.48,Regular,-60.17999999999999,Team Shapland,2.0,0
+23,14.0,116.54,Regular,6.440000000000012,Team Shapland,7.0,1
+25,2.0,137.42,Regular,49.53999999999999,Team Shapland,8.0,1
+26,3.0,137.92,Regular,13.179999999999993,Team Shapland,10.0,1
+27,7.0,164.94,Regular,74.82,Team Shapland,12.0,1
+28,9.0,82.02,Regular,-2.180000000000007,Team Shapland,2.0,0
+29,11.0,101.84,Regular,-12.219999999999999,Team Shapland,5.0,0
+30,12.0,149.0,Regular,46.5,Team Shapland,12.0,1
+32,1.0,114.26,Regular,-14.33999999999999,Team Schram,6.0,0
+33,2.0,87.88,Regular,-49.53999999999999,Team Schram,1.0,0
+34,5.0,134.72,Regular,52.5,Team Schram,12.0,1
+35,6.0,116.34,Regular,2.5200000000000102,Team Schram,11.0,1
+36,8.0,95.86,Regular,-21.879999999999995,Team Schram,5.0,0
+37,10.0,99.64,Regular,1.1400000000000006,Team Schram,10.0,1
+38,13.0,126.0,Regular,3.9000000000000057,Team Schram,10.0,1
+40,3.0,118.48,Regular,-30.320000000000007,Team Schram,7.0,0
+41,4.0,113.16,Regular,-37.44,Team Schram,8.0,0
+42,7.0,120.96,Regular,16.36,Team Schram,8.0,1
+43,9.0,110.36,Regular,23.159999999999997,Team Schram,9.0,1
+44,11.0,118.2,Regular,45.3,Team Schram,11.0,1
+45,12.0,125.7,Regular,1.1000000000000085,Team Schram,10.0,1
+46,14.0,150.64,Regular,28.859999999999985,Team Schram,10.0,1
+48,1.0,131.0,Regular,-5.400000000000006,Team Smith,10.0,0
+49,3.0,114.28,Regular,21.680000000000007,Team Smith,5.0,1
+50,4.0,109.52,Regular,-16.38000000000001,Team Smith,7.0,0
+51,7.0,128.06,Regular,57.66,Team Smith,10.0,1
+52,9.0,87.2,Regular,-23.159999999999997,Team Smith,4.0,0
+53,11.0,87.84,Regular,-47.72,Team Smith,4.0,0
+54,12.0,82.84,Regular,20.360000000000007,Team Smith,3.0,1
+55,14.0,104.6,Regular,-13.320000000000007,Team Smith,4.0,0
+57,2.0,113.76,Regular,-25.040000000000006,Team Smith,5.0,0
+58,5.0,98.1,Regular,-13.920000000000002,Team Smith,5.0,0
+59,6.0,82.24,Regular,-14.14,Team Smith,4.0,0
+60,8.0,110.72,Regular,28.319999999999993,Team Smith,9.0,1
+61,10.0,110.1,Regular,19.439999999999998,Team Smith,11.0,1
+62,13.0,122.1,Regular,-3.9000000000000057,Team Smith,9.0,0
+64,1.0,55.9,Regular,-58.98,Team pearson,1.0,0
+65,4.0,81.42,Regular,-53.959999999999994,Team pearson,1.0,0
+66,5.0,105.22,Regular,-26.580000000000013,Team pearson,6.0,0
+67,7.0,45.16,Regular,-81.3,Team pearson,1.0,0
+68,9.0,30.4,Regular,-62.78000000000001,Team pearson,1.0,0
+69,11.0,72.9,Regular,-45.3,Team pearson,2.0,0
+70,12.0,102.5,Regular,-46.5,Team pearson,4.0,0
+71,13.0,73.36,Regular,-47.459999999999994,Team pearson,1.0,0
+72,2.0,93.48,Regular,-46.519999999999996,Team pearson,2.0,0
+73,3.0,92.6,Regular,-21.680000000000007,Team pearson,2.0,0
+74,6.0,87.42,Regular,12.680000000000007,Team pearson,5.0,1
+75,8.0,42.52,Regular,-50.43999999999999,Team pearson,1.0,0
+76,10.0,79.42,Regular,-10.959999999999994,Team pearson,1.0,0
+77,14.0,110.1,Regular,-6.440000000000012,Team pearson,6.0,0
+80,1.0,122.82,Regular,-30.52000000000001,Wyld Stallyns,8.0,0
+81,2.0,140.0,Regular,46.519999999999996,Wyld Stallyns,10.0,1
+82,5.0,112.02,Regular,13.920000000000002,Wyld Stallyns,9.0,1
+83,7.0,90.12,Regular,-74.82,Wyld Stallyns,3.0,0
+84,9.0,106.66,Regular,18.159999999999997,Wyld Stallyns,8.0,1
+85,11.0,103.28,Regular,1.4399999999999977,Wyld Stallyns,8.0,1
+86,12.0,124.6,Regular,-1.1000000000000085,Wyld Stallyns,9.0,0
+87,3.0,96.12,Regular,-42.079999999999984,Wyld Stallyns,3.0,0
+88,4.0,98.86,Regular,-43.66000000000001,Wyld Stallyns,5.0,0
+89,6.0,113.82,Regular,-2.5200000000000102,Wyld Stallyns,9.0,0
+90,8.0,121.84,Regular,0.10000000000000853,Wyld Stallyns,12.0,1
+91,10.0,117.06,Regular,21.74000000000001,Wyld Stallyns,12.0,1
+92,13.0,134.66,Regular,60.17999999999999,Wyld Stallyns,11.0,1
+93,14.0,97.58,Regular,0.4399999999999977,Wyld Stallyns,3.0,1
+96,2.0,136.5,Regular,-3.9799999999999898,I’m Shucked,7.0,0
+97,4.0,150.6,Regular,37.44,I’m Shucked,12.0,1
+98,6.0,111.9,Regular,-12.819999999999993,I’m Shucked,7.0,0
+99,8.0,121.74,Regular,-0.10000000000000853,I’m Shucked,11.0,0
+100,10.0,98.62,Regular,14.5,I’m Shucked,9.0,1
+101,13.0,149.34,Regular,30.08,I’m Shucked,12.0,1
+103,1.0,102.72,Regular,7.739999999999995,I’m Shucked,5.0,1
+104,3.0,76.06,Regular,-42.17999999999999,I’m Shucked,1.0,0
+105,5.0,110.06,Regular,27.019999999999996,I’m Shucked,8.0,1
+106,7.0,126.46,Regular,81.3,I’m Shucked,9.0,1
+107,9.0,123.34,Regular,26.400000000000006,I’m Shucked,12.0,1
+108,11.0,135.56,Regular,47.72,I’m Shucked,12.0,1
+109,12.0,114.92,Regular,37.519999999999996,I’m Shucked,8.0,1
+111,2.0,107.28,Regular,-4.1200000000000045,Team Stroudy,3.0,0
+112,3.0,118.24,Regular,42.17999999999999,Team Stroudy,6.0,1
+113,5.0,112.56,Regular,24.560000000000002,Team Stroudy,10.0,1
+114,6.0,115.02,Regular,39.7,Team Stroudy,10.0,1
+115,8.0,82.4,Regular,-28.319999999999993,Team Stroudy,2.0,0
+116,10.0,90.38,Regular,10.959999999999994,Team Stroudy,4.0,1
+117,14.0,121.78,Regular,-28.859999999999985,Team Stroudy,9.0,0
+118,1.0,128.6,Regular,14.33999999999999,Team Stroudy,9.0,1
+119,4.0,87.9,Regular,6.0,Team Stroudy,3.0,1
+120,7.0,143.38,Regular,26.25999999999999,Team Stroudy,11.0,1
+121,9.0,114.18,Regular,-3.539999999999992,Team Stroudy,10.0,0
+122,11.0,101.84,Regular,-1.4399999999999977,Team Stroudy,6.0,0
+123,12.0,140.32,Regular,28.379999999999995,Team Stroudy,11.0,1
+124,13.0,95.04,Regular,2.0200000000000102,Team Stroudy,6.0,1
+127,2.0,158.04,Regular,41.81999999999999,Team Burtwistle,12.0,1
+128,4.0,142.52,Regular,43.66000000000001,Team Burtwistle,11.0,1
+129,7.0,117.4,Regular,6.820000000000007,Team Burtwistle,7.0,1
+130,9.0,117.72,Regular,3.539999999999992,Team Burtwistle,11.0,1
+131,11.0,114.06,Regular,12.219999999999999,Team Burtwistle,9.0,1
+132,12.0,77.4,Regular,-37.519999999999996,Team Burtwistle,2.0,0
+133,13.0,78.32,Regular,-10.280000000000001,Team Burtwistle,3.0,0
+136,1.0,136.4,Regular,5.400000000000006,Team Burtwistle,11.0,1
+137,3.0,127.1,Regular,27.61999999999999,Team Burtwistle,9.0,1
+138,5.0,131.8,Regular,26.580000000000013,Team Burtwistle,11.0,1
+139,6.0,124.72,Regular,12.819999999999993,Team Burtwistle,12.0,1
+140,8.0,105.98,Regular,8.14,Team Burtwistle,8.0,1
+141,10.0,98.5,Regular,-1.1400000000000006,Team Burtwistle,8.0,0
+142,2.0,138.8,Regular,25.040000000000006,Run It Back,9.0,1
+143,3.0,99.48,Regular,-27.61999999999999,Run It Back,4.0,0
+144,5.0,92.24,Regular,-15.16000000000001,Run It Back,4.0,0
+145,7.0,104.6,Regular,-16.36,Run It Back,4.0,0
+146,9.0,96.94,Regular,-26.400000000000006,Run It Back,7.0,0
+147,11.0,115.04,Regular,42.92,Run It Back,10.0,1
+148,12.0,111.94,Regular,-28.379999999999995,Run It Back,6.0,0
+151,1.0,153.34,Regular,30.52000000000001,Run It Back,12.0,1
+152,4.0,135.38,Regular,53.959999999999994,Run It Back,10.0,1
+153,6.0,75.32,Regular,-39.7,Run It Back,2.0,0
+154,8.0,103.02,Regular,12.959999999999994,Run It Back,7.0,1
+155,10.0,80.78,Regular,-15.179999999999993,Run It Back,2.0,0
+156,13.0,119.26,Regular,-30.08,Run It Back,7.0,0
+157,14.0,108.12,Regular,49.400000000000006,Run It Back,5.0,1
+158,3.0,148.8,Regular,30.320000000000007,Team Hansen,12.0,1
+159,6.0,82.1,Regular,-30.580000000000013,Team Hansen,3.0,0
+160,8.0,97.84,Regular,-8.14,Team Hansen,6.0,0
+161,10.0,95.32,Regular,-21.74000000000001,Team Hansen,6.0,0
+162,13.0,93.02,Regular,-2.0200000000000102,Team Hansen,5.0,0
+163,1.0,88.74,Regular,6.839999999999989,Team Hansen,3.0,1
+164,2.0,140.48,Regular,3.9799999999999898,Team Hansen,11.0,1
+165,4.0,94.44,Regular,-4.480000000000004,Team Hansen,4.0,0
+166,5.0,88.0,Regular,-24.560000000000002,Team Hansen,3.0,0
+167,7.0,70.4,Regular,-57.66,Team Hansen,2.0,0
+168,9.0,93.18,Regular,62.78000000000001,Team Hansen,6.0,1
+169,11.0,72.12,Regular,-42.92,Team Hansen,1.0,0
+170,12.0,113.48,Regular,8.680000000000007,Team Hansen,7.0,1
+171,14.0,117.92,Regular,13.320000000000007,Team Hansen,8.0,1
+174,3.0,138.2,Regular,42.079999999999984,Team Benak,11.0,1
+175,7.0,117.12,Regular,-26.25999999999999,Team Benak,6.0,0
+176,9.0,84.2,Regular,2.180000000000007,Team Benak,3.0,1
+177,11.0,102.88,Regular,29.959999999999994,Team Benak,7.0,1
+178,12.0,104.8,Regular,-8.680000000000007,Team Benak,5.0,0
+179,14.0,97.14,Regular,-0.4399999999999977,Team Benak,2.0,0
+182,1.0,114.88,Regular,58.98,Team Benak,7.0,1
+183,2.0,116.22,Regular,-41.81999999999999,Team Benak,6.0,0
+184,4.0,125.9,Regular,16.38000000000001,Team Benak,9.0,1
+185,5.0,107.4,Regular,15.16000000000001,Team Benak,7.0,1
+186,6.0,112.68,Regular,30.580000000000013,Team Benak,8.0,1
+187,8.0,117.74,Regular,21.879999999999995,Team Benak,10.0,1
+188,10.0,84.12,Regular,-14.5,Team Benak,3.0,0
+189,13.0,120.82,Regular,47.459999999999994,Team Benak,8.0,1
